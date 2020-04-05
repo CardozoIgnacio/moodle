@@ -6,6 +6,7 @@
     |_| |_| |_|\_____/\_____/\_____||_|\_____)
 
 Moodle - the world's open source learning platform
+Moodle ISFT 190
 
 Moodle <https://moodle.org> is a learning platform designed to provide
 educators, administrators and learners with a single robust, secure and
